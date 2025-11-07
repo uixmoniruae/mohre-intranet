@@ -38,7 +38,7 @@
           "title": "Gray / S",
           "sku": "SWEATSHIRT-GRAY-S",
           "price": 39.99,
-          "inventory_quantity": 8
+          "inventory_quantity": 3
         }
       ]
     },
@@ -66,7 +66,7 @@
           "title": "Black / M",
           "sku": "SHORTS-BLACK-M",
           "price": 24.99,
-          "inventory_quantity": 15
+          "inventory_quantity": 3
         }
       ]
     },
@@ -80,7 +80,7 @@
           "title": "Black / L",
           "sku": "LEGGINGS-BLACK-L",
           "price": 34.99,
-          "inventory_quantity": 12
+          "inventory_quantity": 1
         }
       ]
     },
